@@ -1,0 +1,23 @@
+body{
+  background-color:   #d5e1ef;
+  min-height: 100vh;
+  font-family: cursive;
+  text-align: center;
+}
+.card{
+    position: fixed;
+    margin:auto;
+    inset: 0;
+    height: 470px;
+    width: 100%;
+    max-width: 302px;
+    box-shadow: 5px 5px 20px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 1rem;
+    padding-bottom: 3em;
+}
+img{
+    width: 100%;
+    border-radius: 8px;
+}
